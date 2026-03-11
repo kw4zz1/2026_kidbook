@@ -36,4 +36,4 @@
 
 Авторы: @anxiousss
 
-Ресурсы LLM - Gigachat
+Ресурсы LLM - 
