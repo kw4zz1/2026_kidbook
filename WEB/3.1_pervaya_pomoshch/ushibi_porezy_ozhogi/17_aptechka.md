@@ -8,6 +8,8 @@
 
 См. также: [Первая помощь при порезе](./09_pervaya_pomoshch_pri_poreze.md); [Первая помощь при ожоге](./14_pervaya_pomoshch_pri_ozhoge.md).
 
+![Пример аптечки первой помощи](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Old_Rexalt_first_aid_kit.jpg/960px-Old_Rexalt_first_aid_kit.jpg "Пример аптечки первой помощи")
+
 ## Перевязочные материалы
 
 - стерильные салфетки нужны для закрытия ран и ожогов

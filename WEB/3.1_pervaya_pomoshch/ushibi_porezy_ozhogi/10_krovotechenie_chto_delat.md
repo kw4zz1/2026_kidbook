@@ -8,6 +8,8 @@
 
 См. также: [Первая помощь при порезе](./09_pervaya_pomoshch_pri_poreze.md); [Когда рану нужно показать врачу](./11_porez_kogda_vrach.md).
 
+![Пример закрытия раны и фиксации (пластырные полоски)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Butterfly_closure.jpg/500px-Butterfly_closure.jpg "Пример закрытия раны и фиксации (пластырные полоски)")
+
 ## Что такое кровотечение
 
 - это выход крови из повреждённого сосуда наружу или в ткани

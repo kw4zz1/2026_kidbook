@@ -8,6 +8,8 @@
 
 См. также: [Цели и принципы первой помощи](./02_celi_pervoy_pomoshchi.md); [Алгоритм первой помощи](./03_obschie_pravila_algorithm.md).
 
+![Знак «Первая помощь» (ISO 7010)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ISO_7010_E003_-_First_aid_sign.svg/500px-ISO_7010_E003_-_First_aid_sign.svg.png "Знак «Первая помощь» (ISO 7010)")
+
 ## Главная идея первой помощи
 
 - помочь пострадавшему дожить до осмотра медицинским работником без новых осложнений

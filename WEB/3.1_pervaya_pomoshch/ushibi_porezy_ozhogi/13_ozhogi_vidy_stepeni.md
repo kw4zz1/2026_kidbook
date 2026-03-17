@@ -8,6 +8,8 @@
 
 См. также: [Первая помощь при ожоге](./14_pervaya_pomoshch_pri_ozhoge.md); [Когда при ожоге нужна скорая](./15_ozhog_kogda_skoraya.md).
 
+![Схема степеней ожога](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burn_Degree_Diagram.svg/500px-Burn_Degree_Diagram.svg.png "Схема степеней ожога")
+
 ## Термические ожоги
 
 - возникают от кипятка, пара, пламени, горячей посуды и раскалённых предметов
