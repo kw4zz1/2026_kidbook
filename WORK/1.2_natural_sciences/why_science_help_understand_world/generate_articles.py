@@ -21,9 +21,9 @@ from pathlib import Path
 requests.packages.urllib3.disable_warnings()
 
 ROOT = Path(__file__).resolve().parent.parent.parent
-CONCEPTS_FILE = ROOT / "WORK" / "science" / "concepts.json"
-WIKIDATA_FILE = ROOT / "WORK" / "science" / "wikidata_extract.json"
-OUT_DIR = ROOT / "WEB" / "science"
+CONCEPTS_FILE = ROOT / "WORK" / "1.2_natural_sciences" / "why_science_help_understand_world" / "concepts.json"
+WIKIDATA_FILE = ROOT / "WORK" / "1.2_natural_sciences" / "why_science_help_understand_world" / "wikidata_extract.json"
+OUT_DIR = ROOT / "WEB" / "1.2_natural_sciences" / "why_science_help_understand_world"
 
 GIGACHAT_AUTH_URL = "https://ngw.devices.sberbank.ru:9443/api/v2/oauth"
 GIGACHAT_API_URL = "https://gigachat.devices.sberbank.ru/api/v1/chat/completions"

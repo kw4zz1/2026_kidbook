@@ -126,8 +126,8 @@ def apply_links(text: str, forms_map: dict[str, dict], self_id: str) -> str:
 
 def main() -> None:
     repo_root = Path(__file__).resolve().parent.parent.parent
-    concepts_path = repo_root / "WORK" / "science" / "concepts.json"
-    web_dir = repo_root / "WEB" / "science"
+    concepts_path = repo_root / "WORK" / "1.2_natural_sciences" / "why_science_help_understand_world" / "concepts.json"
+    web_dir = repo_root / "WEB" / "1.2_natural_sciences" / "why_science_help_understand_world"
 
     if not concepts_path.exists():
         sys.exit(f"Не найден файл понятий: {concepts_path}")

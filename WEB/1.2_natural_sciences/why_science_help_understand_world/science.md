@@ -44,3 +44,8 @@
 - [Исследование](research.md)
 - [Научный метод](scientific_method.md)
 - [Космические науки](space_sciences.md)
+
+---
+Автор: Скрипачев Федор
+
+*LLM - GigaChat*

@@ -48,3 +48,8 @@
 - [Биология](biology.md)
 - [Естественные науки](natural_sciences.md)
 - [Организм](organism.md)
+
+---
+Автор: Черноус Алексей
+
+*LLM - GigaChat*

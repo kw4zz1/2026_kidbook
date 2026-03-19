@@ -37,3 +37,8 @@
 ## Смотри также
 - [Естественные науки](natural_sciences.md)
 - [Физическая наука](physical_science.md)
+
+---
+Автор: Мазепа Илья
+
+*LLM - GigaChat*

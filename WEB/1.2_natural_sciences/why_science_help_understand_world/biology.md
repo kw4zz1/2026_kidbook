@@ -42,3 +42,8 @@
 - [Науки о жизни](life_sciences.md)
 - [Естественные науки](natural_sciences.md)
 - [Организм](organism.md)
+
+---
+Автор: Штыхно Илья
+
+*LLM - GigaChat*

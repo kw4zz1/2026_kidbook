@@ -38,3 +38,8 @@
 - [Химия](chemistry.md)
 - [Естественные науки](natural_sciences.md)
 - [Физика](physics.md)
+
+---
+Автор: Заитова Ева
+
+*LLM - GigaChat*

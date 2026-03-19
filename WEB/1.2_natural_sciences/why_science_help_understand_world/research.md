@@ -53,3 +53,8 @@
 - [Исследовательская работа](research_work.md)
 - [Наука](science.md)
 - [Научный метод](scientific_method.md)
+
+---
+Автор: Мазепа Илья
+
+*LLM - GigaChat*

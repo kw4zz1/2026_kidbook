@@ -40,3 +40,8 @@
 - [Физическая наука](physical_science.md)
 - [Физика](physics.md)
 - [Наука](science.md)
+
+---
+Автор: Черноус Алексей
+
+*LLM - GigaChat*

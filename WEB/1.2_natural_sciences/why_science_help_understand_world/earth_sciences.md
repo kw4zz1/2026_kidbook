@@ -42,3 +42,8 @@
 ## Смотри также
 - [Науки об окружающей среде](environmental_sciences.md)
 - [Естественные науки](natural_sciences.md)
+
+---
+Автор: Штыхно Илья
+
+*LLM - GigaChat*
